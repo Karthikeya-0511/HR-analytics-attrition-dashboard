@@ -9,8 +9,20 @@ The goal of this project is to enable organizations to make data-driven decision
 ---
 
 ## 🌐 Live Dashboard
+<p>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTUzNTAxMzAtOTI2ZC00NDQ3LTllOTItMjc5MDhhNTljNzI2IiwidCI6IjFjN2ZhMjViLTJiNTQtNDhmMi05Y2Q5LTZiMmU0ZDg2ZDRkZCJ9">
+  🔗 <b>View Power BI Dashboard</b>
+</a>
+</p>
 
-🔗 **View Dashboard:** *([Paste your Power BI Web Link here](https://app.powerbi.com/view?r=eyJrIjoiMTUzNTAxMzAtOTI2ZC00NDQ3LTllOTItMjc5MDhhNTljNzI2IiwidCI6IjFjN2ZhMjViLTJiNTQtNDhmMi05Y2Q5LTZiMmU0ZDg2ZDRkZCJ9))*
+<p><i>
+Note: The dashboard is published using Power BI “Publish to Web”
+for demonstration purposes only.
+</i></p>
+
+<p>
+📸 Dashboard screenshots are available in the <code>dashboards/</code> folder.
+</p>
 
 ---
 
