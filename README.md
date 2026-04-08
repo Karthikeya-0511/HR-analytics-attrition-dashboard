@@ -114,8 +114,8 @@ This project demonstrates how HR analytics can be leveraged to identify attritio
 ## 👤 Author
 
 **Karthikeya Sriramoju**
-📍 Data Analyst | Aspiring Data Scientist
-📧 *(Add your email if you want)*
-🔗 *(Add LinkedIn if you want)*
+📍 Data Analyst 
+📧 *(sriramojukarthikeya27@gmail.com)*
+🔗 *(https://www.linkedin.com/in/karthikeya-sriramoju/)*
 
 ---
